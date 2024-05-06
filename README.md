@@ -17,6 +17,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 7. Apply new unknown values
 
 
+
+
+
+
+
 ## Program:
 ```
 /*
